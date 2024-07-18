@@ -1,0 +1,7 @@
+D:\Tanvi Data\LearningAppAzure\obj\Debug\net8.0\PubTmp\Out\LearningAppAzure.exe
+D:\Tanvi Data\LearningAppAzure\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Tanvi Data\LearningAppAzure\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\Tanvi Data\LearningAppAzure\obj\Debug\net8.0\PubTmp\Out\LearningAppAzure.dll
+D:\Tanvi Data\LearningAppAzure\obj\Debug\net8.0\PubTmp\Out\LearningAppAzure.deps.json
+D:\Tanvi Data\LearningAppAzure\obj\Debug\net8.0\PubTmp\Out\LearningAppAzure.runtimeconfig.json
+D:\Tanvi Data\LearningAppAzure\obj\Debug\net8.0\PubTmp\Out\LearningAppAzure.pdb
